@@ -1,2 +1,2 @@
 # adgo
-adblock private rules
+# adblock private rules
