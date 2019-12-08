@@ -1,3 +1,1 @@
-hentaiprn.com,kaplog.com###v-overlay
-hentaiprn.com,kaplog.com##.Thumbnail_List > .xtact
-hentaiprn.com,kaplog.com##.Thumbnail_List > .aft_bnr
+sex.com###container > div.footer_description:last-child
