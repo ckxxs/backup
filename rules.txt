@@ -1,1 +1,2 @@
+!sex.com
 sex.com###container > div.footer_description:last-child
