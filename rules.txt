@@ -1,2 +1,3 @@
 !sex.com
 sex.com###container > div.footer_description:last-child
+sex.com##div.footer_description:nth-child(7)
